@@ -3,5 +3,7 @@ description: We have a problem
 body:
 - type: checkboxes
   attributes:
+    label:
+    options:
 # Copyright (c) 2022 Eikloof
 # SPDX-License-Identifier: BSD-2-Clause-Patent
