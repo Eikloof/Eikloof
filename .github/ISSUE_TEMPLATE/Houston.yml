@@ -1,3 +1,5 @@
+# Copyright (c) 2022 Eikloof
+# SPDX-License-Identifier: BSD-2-Clause-Patent
 name: Houston
 description: We have a problem
 body:
@@ -6,5 +8,3 @@ body:
     label: Houston
     options:
     - label: We have a problem.
-# Copyright (c) 2022 Eikloof
-# SPDX-License-Identifier: BSD-2-Clause-Patent
