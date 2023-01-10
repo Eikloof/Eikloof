@@ -9,7 +9,7 @@ SPDX-License-Identifier: BSD-2-Clause-Patent
   <title>Ipkiss: My First GitHub Profile Picture by Eikloof</title>
   <defs display="none">
     <style>
-      .background {}
+      .background { fill: #eeffcc }
     </style>
   </defs>
 </svg>
