@@ -11,6 +11,6 @@ SPDX-License-Identifier: BSD-2-Clause-Patent
     <style>
       .background { fill: #eeffcc }
     </style>
-    <rect id="large" width="" />
+    <rect id="large" width="" height="" />
   </defs>
 </svg>
