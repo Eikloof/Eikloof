@@ -10,7 +10,7 @@ SPDX-License-Identifier: BSD-2-Clause-Patent
   <defs display="none">
     <style>
       .background { fill: #eeffcc }
-      .right-face {}
+      .right-face { fill: #bedc7f }
     </style>
     <rect id="large" width="100%" height="100%" />
   </defs>
