@@ -13,7 +13,7 @@ SPDX-License-Identifier: BSD-2-Clause-Patent
       .right-face { fill: #bedc7f }
       .right-jaw  { fill: #89a257 }
       .hair       { fill: #4d8061 }
-      .left-face  {}
+      .left-face  { fill: #305d42 }
     </style>
     <rect id="large" width="100%" height="100%" />
     <rect id="small" width="8" height="8" />
