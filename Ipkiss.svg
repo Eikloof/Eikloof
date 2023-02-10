@@ -15,6 +15,7 @@ SPDX-License-Identifier: BSD-2-Clause-Patent
       .hair       { fill: #4d8061 }
       .left-face  { fill: #305d42 }
       .left-jaw   { fill: #1e3a29 }
+      .eyes       {}
     </style>
     <rect id="large" width="100%" height="100%" />
     <rect id="small" width="8" height="8" />
