@@ -26,7 +26,7 @@ SPDX-License-Identifier: BSD-2-Clause-Patent
   </g>
   <g class="right-face">
     <use href="#small" x="5" y="4" />
-    <use href="#small" x="" y="" />
+    <use href="#small" x="6" y="4" />
   </g>
   <g class="right-jaw">
     <use />
