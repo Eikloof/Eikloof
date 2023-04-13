@@ -40,5 +40,7 @@ SPDX-License-Identifier: BSD-2-Clause-Patent
   <g class="hair">
     <use />
   </g>
-  <g class="left-face"></g>
+  <g class="left-face">
+    <use />
+  </g>
 </svg>
