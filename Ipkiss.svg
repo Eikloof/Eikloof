@@ -47,6 +47,6 @@ SPDX-License-Identifier: BSD-2-Clause-Patent
     <use href="#small" x="3" y="7" />
   </g>
   <g class="eyes">
-    <use href="#small" />
+    <use href="#small" x="" />
   </g>
 </svg>
