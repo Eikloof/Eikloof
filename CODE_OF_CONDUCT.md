@@ -1,5 +1,5 @@
 <!--
-Copyright (c) 2022– Eikloof
+Copyright (c) 2022–2023 Eikloof
 SPDX-License-Identifier: BSD-2-Clause-Patent
 -->
 # Code of Conduct
